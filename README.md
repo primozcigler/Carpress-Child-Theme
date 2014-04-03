@@ -1,4 +1,4 @@
-Hairpress Child Theme
+Carpress Child Theme
 =====================
 
-Child theme scaffold for the premium theme [Hairpress](http://themeforest.net/item/hairpress-wordpress-theme-for-hair-salons/4099496?ref=ProteusThemes).
+Child theme scaffold for the premium theme [Carpress](http://themeforest.net/item/carpress-wordpress-theme-for-mechanic-workshops/7042577?ref=ProteusThemes).
